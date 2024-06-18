@@ -1,4 +1,4 @@
-const topBarCenterText = `W5AWW - EM11hn`;
+const topBarCenterText = `N5FKU - EM13nc`;
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
@@ -12,7 +12,7 @@ const aURL = [
   [
     "2196F3",
     "CLUBLOG",
-    "https://clublog.org/livestream/W5AWW",
+    "https://clublog.org/livestream/N5FKU",
     "1.7",
   ],
 
@@ -51,7 +51,7 @@ const aURL = [
   [
     "2196F3",
     "APRS",
-    "https://aprs.fi/#!z=11&call=a%2FW5AWW-4&others=1&timerange=3600&tail=3600",
+    "https://aprs.fi/#!z=11&call=a%2FN5FKU-4&others=1&timerange=3600&tail=3600",
     "1",
   ],
   ["2196F3", "WINLINK", "https://cms.winlink.org:444/maps/propagation.aspx", "1"],
@@ -187,7 +187,7 @@ const aIMG = [
   ],
   [
     "PSK",
-    "https://pskreporter.info/pskmap.html?preset&callsign=w5aww&timerange=86400&blankifnone=1&mapCenter=38.831322926667525,-94.73750089830887,4.6750794820546435",
+    "https://pskreporter.info/pskmap.html?preset&callsign=n5fku&timerange=86400&blankifnone=1&mapCenter=38.831322926667525,-94.73750089830887,4.6750794820546435",
   ],
 
   [
